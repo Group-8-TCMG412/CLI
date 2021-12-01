@@ -15,7 +15,7 @@ jobs:
     steps:
     - uses: actions/checkout@v2
     - name: Build the CLI client
-      run: docker build . --file CLI/Dockerfile --tag chrismerkle19/tcmg412-cli:$(date +%s)
+      run: docker build -t chrismerkle19/tcmg412-cli .
       
     - name: Pushing image
       run: |

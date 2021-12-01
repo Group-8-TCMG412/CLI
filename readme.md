@@ -2,7 +2,7 @@ For ease of use, this CLI is updated through GitHub actions and pushed to the fo
 
 chrismerkle19/tcmg412-cli
 
-
+--------------------------
 
 
 When using the CLI, enter just the IP address, port, destination, and request. No further formatting is needed.

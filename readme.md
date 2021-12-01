@@ -1,3 +1,3 @@
-For ease of use, this CLI is in Docker Hub and updated through GitHub actions:
+For ease of use, this CLI is updated through GitHub actions and pushed to the following Docker Hub repo:
 
 chrismerkle19/tcmg412-cli

@@ -14,8 +14,12 @@ Group 8 CLI
 --------------------------
 
 Enter the address of API:172.17.0.3
+
 Enter the port of API:5000
+
 Enter destination of request:md5
+
 Enter request:test
+
 {'input': 'hello', 'output': '5d41402abc4b2a76b9719d911017c592'}
 

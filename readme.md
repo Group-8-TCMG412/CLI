@@ -11,7 +11,6 @@ When using the CLI, enter just the IP address, port, destination, and request. N
 E.g.:
 
 Group 8 CLI
---------------------------
 
 Enter the address of API:172.17.0.3
 

@@ -7,8 +7,8 @@ port = input("Enter the port of API:")
 dest = input("Enter destination of request:")
 req = input("Enter request:")
 
-URL = ('http://' + ip + ':' + port + '/' + dest + '/' + req)
+address = ('http://' + ip + ':' + port + '/' + dest + '/' + req)
 
-result = requests.get(URL)
+result = requests.get(address)
 results_text = result.json()
 print(results_text)
